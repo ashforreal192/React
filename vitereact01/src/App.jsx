@@ -10,7 +10,7 @@ function App() {
     <h1>What's going on?</h1>
     <p>I have been working on my health lately</p>
     {bukchodi} {/* Evaluated expression: anything in between the curly brackets is treated as a variable */}
-    {/* An evaluated expression in React refers to any JavaScript code inside JSX that is dynamically evaluated and rendered within {} (curly braces). */}
+    {/* An evaluated expression in React refers to any JavaScript code inside JSX that is dynamically evaluated and reandered within {} (curly braces). */}
     <br /> {/* break tag */}
     {comeBack}
     </>
